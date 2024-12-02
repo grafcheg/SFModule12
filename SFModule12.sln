@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFModule12", "SFModule12\SFModule12.csproj", "{E929CBBC-6B0C-4674-A132-EA583A4D71FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1215", "Task1215\Task1215.csproj", "{1F9D9C8D-FD33-4842-AD04-CD494C1FC2DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E929CBBC-6B0C-4674-A132-EA583A4D71FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E929CBBC-6B0C-4674-A132-EA583A4D71FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E929CBBC-6B0C-4674-A132-EA583A4D71FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E929CBBC-6B0C-4674-A132-EA583A4D71FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F9D9C8D-FD33-4842-AD04-CD494C1FC2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F9D9C8D-FD33-4842-AD04-CD494C1FC2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F9D9C8D-FD33-4842-AD04-CD494C1FC2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F9D9C8D-FD33-4842-AD04-CD494C1FC2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
